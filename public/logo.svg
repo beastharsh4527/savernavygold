@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="Saver UKBD PLC">
+  <circle cx="30" cy="32" r="28" fill="#125E5C"/>
+  <path d="M10 38c10 7 30 7 40-6" stroke="#E0643B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="30" cy="25" r="7" fill="#F7F4EE"/>
+  <path d="M20 47h20" stroke="#F7F4EE" stroke-width="3" stroke-linecap="round"/>
+  <text x="70" y="38" font-family="Georgia, serif" font-size="26" fill="#0E2B2C">Saver UKBD</text>
+  <text x="71" y="54" font-family="Arial, sans-serif" font-size="10" letter-spacing="2" fill="#5B6B6A">HEALTHCARE RECRUITMENT · PLC</text>
+</svg>
